@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/iniciar.svg</file>
+        <file>images/parar.svg</file>
+        <file>images/status.svg</file>
+        <file>images/instalar.svg</file>
+        <file>images/aplicacion.svg</file>
+        <file>images/borrar.svg</file>
+        <file>mensajes.js</file>
+        <file>images/apldel.svg</file>
+        <file>images/aplpause.svg</file>
+        <file>images/aplplay.svg</file>
+    </qresource>
+</RCC>
